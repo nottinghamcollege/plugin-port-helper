@@ -1,7 +1,7 @@
 Plugin port helper
 ------------------
 
-This script helps porting plugins from Craft 2 to Craft 3 by generating the [Install migration](https://github.com/craftcms/docs/blob/master/en/plugin-migrations.md#install-migrations).
+This script helps porting plugins from Craft 2 to Craft 3 by generating the [Install migration](https://craftcms.com/docs/3.x/extend/migrations.html#plugin-install-migrations).
 The script will generate all the code needed to create the tables, indexes and foreign keys as well as the code needed to remove them.
 
 ## How to use this script
