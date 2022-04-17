@@ -358,7 +358,7 @@ class Install extends Migration
     /**
      * Drop the tables
      * 
-     * @return coid
+     * @return void
      */
     protected function dropTables()
     {
